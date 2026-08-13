@@ -1,12 +1,21 @@
-JK COMPANY SERVICE — VERSIÓN MEJORADA
+# JK Company Service - Página web
 
-Cambios:
-- Diseño inspirado en el concepto visual negro/rojo/amarillo.
-- Imagen de motocicleta en el hero.
-- Logo real de la empresa en la sección Especialidad.
-- Dirección: Cra 9 No. 20 - 27 Av. Colombia.
-- Horario: lunes a sábado, 8:00 AM - 6:00 PM.
-- WhatsApp Business pendiente, sin número ficticio.
-- Diseño responsive para computador y celular.
+Sitio web estático para un taller especializado en reparación y mantenimiento de motocicletas.
 
-Cuando tengas el número de WhatsApp Business, se puede conectar el formulario y agregar un botón flotante de WhatsApp.
+## Archivos
+- index.html: estructura de la página.
+- styles.css: diseño responsive.
+- script.js: menú móvil, año automático y formulario.
+- logo.jpg: logo proporcionado por el cliente.
+
+## Antes de publicar
+Edita en index.html:
+- Dirección del taller.
+- Teléfono / WhatsApp.
+- Horario.
+
+Edita en script.js:
+- `whatsappNumber` con el número real de WhatsApp, incluyendo código de país y sin + ni espacios.
+
+## Publicación gratuita
+Puedes subir esta carpeta a un servicio de hosting estático gratuito como GitHub Pages, Netlify o Vercel.
