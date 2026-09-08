@@ -1,21 +1,6 @@
-# JK Company Service - Página web
+JK COMPANY SERVICE — VERSIÓN ACTUALIZADA
 
-Sitio web estático para un taller especializado en reparación y mantenimiento de motocicletas.
+WhatsApp Business: 314 277 4766
+Enlace: https://wa.me/573142774766
 
-## Archivos
-- index.html: estructura de la página.
-- styles.css: diseño responsive.
-- script.js: menú móvil, año automático y formulario.
-- logo.jpg: logo proporcionado por el cliente.
-
-## Antes de publicar
-Edita en index.html:
-- Dirección del taller.
-- Teléfono / WhatsApp.
-- Horario.
-
-Edita en script.js:
-- `whatsappNumber` con el número real de WhatsApp, incluyendo código de país y sin + ni espacios.
-
-## Publicación gratuita
-Puedes subir esta carpeta a un servicio de hosting estático gratuito como GitHub Pages, Netlify o Vercel.
+La dirección es Cra 9 No. 20 - 27 Av. Colombia y el horario es lunes a sábado, 8:00 AM - 6:00 PM.
