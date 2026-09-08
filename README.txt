@@ -1,6 +1,12 @@
-JK COMPANY SERVICE — VERSIÓN ACTUALIZADA
+JK COMPANY SERVICE — VERSIÓN MEJORADA
 
-WhatsApp Business: 314 277 4766
-Enlace: https://wa.me/573142774766
+Cambios:
+- Diseño inspirado en el concepto visual negro/rojo/amarillo.
+- Imagen de motocicleta en el hero.
+- Logo real de la empresa en la sección Especialidad.
+- Dirección: Cra 9 No. 20 - 27 Av. Colombia.
+- Horario: lunes a sábado, 8:00 AM - 6:00 PM.
+- WhatsApp Business pendiente, sin número ficticio.
+- Diseño responsive para computador y celular.
 
-La dirección es Cra 9 No. 20 - 27 Av. Colombia y el horario es lunes a sábado, 8:00 AM - 6:00 PM.
+Cuando tengas el número de WhatsApp Business, se puede conectar el formulario y agregar un botón flotante de WhatsApp.
